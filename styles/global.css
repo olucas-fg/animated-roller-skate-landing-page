@@ -16,7 +16,7 @@
   --highlights: #000000;
   --background: #FAFAFA;
 
-  --ff-base: "Montserrat, sans-serif";
+  --ff-base: "Montserrat" , sans-serif;
 
   --text-sm: 0.875rem;
   --text-base: 1rem;
@@ -29,7 +29,7 @@ html, button{
 }
 
 h1, h2{
-  font-family: 'Syne', sans-serif;
+  font-family: "Syne", sans-serif;
 }
 
 h1{
